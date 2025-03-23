@@ -57,7 +57,7 @@ The TeleCrypt Script is a command-line tool developed in Bash that facilitates s
 
 How to Run
 
-  1. Clone the repository `git clone https://codeberg.org/elliotwellick/TeleCrypt`
+  1. Clone the repository `git clone https://github.com/0xdotgz/TeleCrypt`
   2. Run the script using the command:
      `./telecrypt.sh <command> <arguments>`
 
